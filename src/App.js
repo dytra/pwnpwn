@@ -25,7 +25,7 @@ class App extends Component {
         mailView: 'inbox',
         currentMessageId: 1,
         notifCount: 3,
-        installed:true,
+        installed:false,
         messages: [
           {
             id: 1,
@@ -47,7 +47,7 @@ class App extends Component {
       },
       wallet: {
         notifCount: 1,
-        installed:true,
+        installed:false,
       },
       devices: {
         localhost : {
