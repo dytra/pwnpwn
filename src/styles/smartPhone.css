@@ -1,0 +1,96 @@
+#smartphone {
+  width:360px;
+  /* margin: 0 auto; */
+
+}
+
+.iphone {
+  width: 360px;
+  height: 756px;
+  background: #f9f7f9;
+  border: 5px solid #c1bfc1;
+  border-radius: 45px;
+  opacity: 0.8;
+}
+
+.highlight {
+  width: 352px;
+  height: 748px;
+  border: 3px solid #fff;
+  border-radius: 45px;
+  position: relative;
+  background-color: transparent;
+  pointer-events: none;
+  top: -1485px;
+  left: 6px;
+}
+
+.circle {
+  width: 11px;
+  height: 11px;
+  background: #333;
+  border-radius: 50%;
+  position: relative;
+  top: -745px;
+  left: 175px;
+}
+
+.camera {
+  width: 14px;
+  height: 14px;
+  background: #333;
+  border-radius: 50%;
+  position: relative;
+  top: -735px;
+  left: 116px;  
+}
+
+.speaker {
+  width: 61px;
+  height: 6px;
+  background: #333;
+  border-radius: 5px;
+  position: relative;
+  top: -745px;
+  left: 151px;  
+}
+
+.screen {
+  width: 326px;
+  height: 580px;
+  border: 3px solid #333;
+  border-radius: 5px;
+  position: relative;
+  left: 18px;
+  top: -710px;
+  background: #7f8282;
+  background: -webkit-linear-gradient(#e2e3e4, #7f8282);
+  background: -o-linear-gradient(#e2e3e4, #7f8282);
+  background: -moz-linear-gradient(#e2e3e4, #7f8282);
+  background: linear-gradient(#e2e3e4, #7f8282);
+}  
+
+.home1 {
+  width: 50px;
+  height: 50px;
+  background: #fff;
+  border-radius: 50%;
+  position: relative;
+  top: -692px;
+  left: 154px;
+  z-index: 2;
+}
+
+.home2 {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  position: relative;
+  top: -746px;
+  left: 150px;
+  background: #7f8282;
+  background: -webkit-linear-gradient(#e2e3e4, #7f8282);
+  background: -o-linear-gradient(#e2e3e4, #7f8282);
+  background: -moz-linear-gradient(#e2e3e4, #7f8282);
+  background: linear-gradient(#e2e3e4, #7f8282);
+}
